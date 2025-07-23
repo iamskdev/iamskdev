@@ -6,7 +6,7 @@
 </p>  
 
 ---
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a passionate **PWA (Progressive Web App) Developer** focused on building apps that are fast, reliable, and work seamlessly — even offline. I love turning ideas into user-friendly tools that make a difference.
 
