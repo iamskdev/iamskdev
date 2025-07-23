@@ -1,5 +1,5 @@
 
-### 🚀 Hey there, I'm Santosh! My Upcoming Projects 👇
+### 🚀 My Upcoming Projects 👇
 
 ---
 ### 🛒 ApnaStore — *A Local Marketplace PWA*  
