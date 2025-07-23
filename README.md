@@ -1,14 +1,4 @@
-<h1 align="center">🚀 Hey there, Welcome to My Profile!</h1>  
-
-<p align="center">  
-  <strong>I'm a developer who loves building modern, useful, and meaningful web apps.</strong><br>  
-  Bringing ideas to life — one project at a time.  
-</p>  
-
----
-## 👨‍💻 About Me
-
-I'm a passionate **PWA (Progressive Web App) Developer** focused on building apps that are fast, reliable, and work seamlessly — even offline. I love turning ideas into user-friendly tools that make a difference.
+<h1 align="center">🚀 Hey there, I'm Santosh!</h1>  
 
 ---
 
