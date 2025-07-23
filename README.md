@@ -1,8 +1,5 @@
-<h1 align="center">🚀 Hey there, I'm Santosh!</h1>  
 
----
-
-### 🚀 My Upcoming Projects 👇
+### 🚀 Hey there, I'm Santosh! My Upcoming Projects 👇
 
 ---
 ### 🛒 ApnaStore — *A Local Marketplace PWA*  
