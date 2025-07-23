@@ -15,7 +15,8 @@ I'm a passionate **PWA (Progressive Web App) Developer** focused on building app
 ### 🚀 My Upcoming Projects 👇
 
 ---
-## 🛒 ApnaStore - A full-featured marketplace platform for local businesses and customers.
+### 🛒 ApnaStore — *A Local Marketplace PWA*  
+_A full-featured marketplace platform for local businesses and customers._
 
 > Key Features:
 - 📦 Sellers can manage products, pricing, and inventory  
@@ -29,7 +30,8 @@ I'm a passionate **PWA (Progressive Web App) Developer** focused on building app
 
 ---
 
-## 🌳 AncesStory — Explore, preserve, and share your family’s legacy interactively.
+### 🌳 AncesStory — *Family Tree + Story Archive*  
+_Explore, preserve, and share your family’s legacy interactively._
 
 > Key Features:
 - 👪 Build family trees visually  
@@ -61,3 +63,4 @@ I'm a passionate **PWA (Progressive Web App) Developer** focused on building app
 ---
 
 <p align="center">🌱 More projects coming soon... Stay tuned!</p>
+
